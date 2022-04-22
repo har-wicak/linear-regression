@@ -52,7 +52,6 @@ prompt-toolkit==3.0.20
 pure-eval==0.2.2
 pycparser==2.21
 Pygments==2.11.2
-pylint==2.5.3
 pyOpenSSL==22.0.0
 pywin32==302
 pywinpty==2.0.2
