@@ -55,7 +55,6 @@ Pygments==2.11.2
 pylint==2.5.3
 pyOpenSSL==22.0.0
 pyparsing==3.0.4
-pyrsistent==0.18.0
 pywin32==302
 pywinpty==2.0.2
 requests==2.27.1
